@@ -8,9 +8,9 @@
  */
 class Processor {
 public:
-    explicit Processor();
+    explicit Processor() {}
     virtual void reset() = 0;
-    virtual String getStateInfo() const = 0;
+    virtual void printStateInfo() = 0;
 };
 
 #endif

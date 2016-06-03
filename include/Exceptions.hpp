@@ -15,7 +15,7 @@ private:
 
 class UnsupportedInstructionException : public std::exception {
 public:
-    OperationNotImplementedException(const String& message) : _message("UnsupportedInstructionException: " + message) {}
+    UnsupportedInstructionException(const String& message) : _message("UnsupportedInstructionException: " + message) {}
     virtual const char* what() const throw() { return _message.c_str(); }
 
 private:
