@@ -4,7 +4,7 @@ EmulatorBoy
 ## Building
 
 * __Windows__: Not available yet 
-* __Linux__: [Linux Build](https://github.com/citra-emu/citra/wiki/Building-For-Linux)
+* __Linux__: [Linux Build](https://github.com/starfleetcadet75/EmulatorBoy/wiki/Building-on-Linux)
 * __OSX__: Not available yet
 
 ## Bugs & Feature Requests
