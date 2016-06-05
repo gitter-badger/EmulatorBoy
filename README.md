@@ -1,6 +1,8 @@
 EmulatorBoy
 ==============
 
+[![Join the chat at https://gitter.im/starfleetcadet75/EmulatorBoy](https://badges.gitter.im/starfleetcadet75/EmulatorBoy.svg)](https://gitter.im/starfleetcadet75/EmulatorBoy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Building
 
 * __Windows__: Not available yet 
